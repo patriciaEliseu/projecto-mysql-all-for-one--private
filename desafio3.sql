@@ -1,4 +1,4 @@
 
-SELECT primary_key FROM northwind.products;
+SELECT id FROM northwind.products;
 
       
